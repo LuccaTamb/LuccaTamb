@@ -30,6 +30,6 @@
 
 ## Onde me encontrar
 
-![LinkedIn](https://img.shields.io/badge/-LuccaTambellini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucca-tambellini/)
-![Gmail](https://img.shields.io/badge/-luccatambellini@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luccatambellini@gmail.com)
-![GitHub](https://img.shields.io/github/followers/LuccaTamb?label=follow&style=social)
+[![Linkedin](https://img.shields.io/badge/-LuccaTambellini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucca-tambellini/)](https://www.linkedin.com/in/lucca-tambellini/)
+[![Gmail Badge](https://img.shields.io/badge/-luccatambellini@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=red&link=mailto:luccatambellini@gmail.com)](mailto:luccatambellini@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/LuccaTamb?label=follow&style=social)](https://github.com/LuccaTamb)
