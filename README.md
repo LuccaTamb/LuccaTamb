@@ -1,5 +1,5 @@
 ## Sobre mim
-- Me chamo Lucca, tenho 19 anos e estudo Engenharia de Software na FIAP, trabalho na area de dados na PRICEMET mexendo especialmente com Python, Qlik Sense e SQL.
+- Me chamo Lucca, tenho 20 anos e estudo Engenharia de Software na FIAP, trabalho na area de dados na PRICEMET mexendo especialmente com Python, Qlik Sense e SQL.
 
 ## Minhas Skills
 
