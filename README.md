@@ -50,13 +50,13 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🔒 Análise de Vulnerabilidade Mobile</h3>
+      <h3 align="center">🔒 Aplicativo Mobile</h3>
       <p align="center">
-        Estudo prático de Cybersecurity aplicado ao React Native.
+        React Native Funcional.
       </p>
       <p>
-        ✅ <b>Foco:</b> Identificação de falhas e correção.<br>
-        📄 <b>Entrega:</b> Documentação técnica de segurança.<br>
+        ✅ <b>Foco:</b> Cadastro de Skills.<br>
+        📄 <b>Entrega:</b> Documentação técnica e aplicativo funcional<br>
         🏆 <b>Resultado:</b> Nota máxima (10/10) na avaliação final.
       </p>
     </td>
