@@ -34,39 +34,6 @@
 
 ---
 
-### 🚀 Projetos em Destaque
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center">📊 CareConnect (Cidade Sustentável)</h3>
-      <p align="center">
-        Projeto acadêmico focado em soluções para cidades inteligentes e sustentabilidade.
-      </p>
-      <p>
-        ✅ <b>Papel:</b> Líder de Projeto & Desenvolvedor.<br>
-        ⚙️ <b>Tech:</b> Python (Lógica de carrinho), HTML, CSS.<br>
-        🔗 <b>Demo:</b> <a href="https://luccatamb.github.io/CareConnect/">Acessar Website</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🔒 Aplicativo Mobile</h3>
-      <p align="center">
-        React Native Funcional.
-      </p>
-      <p>
-        ✅ <b>Foco:</b> Cadastro de Skills.<br>
-        📄 <b>Entrega:</b> Documentação técnica e aplicativo funcional<br>
-        🏆 <b>Resultado:</b> Nota máxima (10/10) na avaliação final.
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
----
-
 <div align="center">
   <h3>📫 Vamos conversar?</h3>
   <p>Estou disponível para novos desafios em Dados e Desenvolvimento.</p>
