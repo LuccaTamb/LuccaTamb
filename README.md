@@ -8,7 +8,7 @@
   </p>
 
   <p align="center">
-    Sou estudante de <b>Engenharia de Software na FIAP</b> e apaixonado por transformar dados em soluções.<br>
+    Sou estudante de <b>Engenharia de Software na FIAP</b> busco transformar dados em soluções.<br>
     Tenho experiência prática em <b>Business Intelligence</b>, criando automações com Python e dashboards estratégicos.
   </p>
 
@@ -36,7 +36,7 @@
 
 <div align="center">
   <h3>📫 Vamos conversar?</h3>
-  <p>Estou disponível para novos desafios em Dados e Desenvolvimento.</p>
+  <p>Disponível para novos desafios em Dados e Desenvolvimento.</p>
 
   <a href="https://www.linkedin.com/in/lucca-tambellini/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
